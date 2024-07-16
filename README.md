@@ -1,1 +1,1 @@
-# Fullstack project in JS
+# Fullstack basics in JS
